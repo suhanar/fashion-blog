@@ -131,3 +131,6 @@ h6{
     font-weight: 500;
     color:rgb(32, 32, 32)
 }
+a{
+    text-decoration: none;
+}
